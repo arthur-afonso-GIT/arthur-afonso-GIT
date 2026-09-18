@@ -31,7 +31,7 @@
 
 
 ---
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack, Tools & Main Projects
 
 ![Python](https://img.shields.io/badge/Python-172A46?style=flat&logo=python&logoColor=9DB7DE)
 ![C](https://img.shields.io/badge/C-172A46?style=flat&logo=c&logoColor=9DB7DE)
@@ -49,6 +49,21 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-172A46?style=flat&logo=streamlit&logoColor=9DB7DE)
 ![Git](https://img.shields.io/badge/Git-172A46?style=flat&logo=git&logoColor=9DB7DE)
 ![GitHub](https://img.shields.io/badge/GitHub-172A46?style=flat&logo=github&logoColor=9DB7DE)
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🩺 <a href="https://github.com/arthur-afonso-GIT/Prontu">Prontu</a></h3>
+      <p>A desktop-first clinic management system for small healthcare practices. It brings patient records, clinical documentation, appointments, financial tracking, team collaboration, encrypted backups, document exports, and assisted form digitization into one secure workspace.</p>
+      <p><strong>Tech:</strong> Python · PySide6 · Supabase · PostgreSQL · TypeScript · OCR</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏆 <a href="https://github.com/arthur-afonso-GIT/pacer-app">Pacer</a></h3>
+      <p>A mobile-first social platform that turns habit building into collaborative challenges. Users can create groups, submit activities with evidence, review and negotiate points, track streaks, and follow calendars and leaderboards in a secure installable PWA.</p>
+      <p><strong>Tech:</strong> React · TypeScript · Vite · Tailwind CSS · Supabase · PostgreSQL</p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 <br/>
