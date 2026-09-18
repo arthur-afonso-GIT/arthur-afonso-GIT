@@ -8,8 +8,22 @@
   <code>Information Systems Student | Software Developer | Data & LLMs Enthusiast</code>
 </p>
 
+---
+### 👋 About Me
 
-My name is **Arthur Afonso** and I am from Recife, Pernambuco (Brazil). Currently, I am pursuing a Bachelor's degree in **Information Systems at CESAR School**. I am passionate about technology and software development, focusing on building practical Python solutions that range from **desktop management systems and financial intelligence tools to computer vision and drone automation**. You can reach out to me via email at [arthurafonsodev@gmail.com](mailto:arthurafonsodev@gmail.com) or connect with me through my profiles below.
+<table>
+  <tr>
+    <td width="68%" valign="top">
+      <p>I'm Arthur, a technology enthusiast who enjoys games, music, movies, and spending time exploring computers. I've always been passionate about STEM, so I decided to connect the subjects I enjoy with my biggest hobby: building with technology.</p>
+      <p>I enjoy working with data analysis, blockchain, automation, LLMs, and artificial intelligence. Python is currently my main language, especially for building APIs, while I'm learning React, TypeScript, and Node.js so I can create full-stack projects independently.</p>
+      <p>I like solving real-world problems, especially everyday challenges that can be improved through automation and optimization. I naturally gravitate toward data and back-end development.</p>
+      <p>Over the next five years, I aim to graduate and reach a solid mid-level software engineering role. I speak fluent English, have a B2 level in Spanish, enjoy content from different cultures, and actively study public speaking. I also enjoy collaborating and connecting with people.</p>
+    </td>
+    <td width="32%" align="center" valign="middle">
+      <img src="assets/profile-avatar.png" alt="Pixel art portrait" width="260" />
+    </td>
+  </tr>
+</table>
 
 [![E-mail](https://img.shields.io/badge/E--mail-arthurafonsodev%40gmail.com-101827?style=for-the-badge&logo=gmail&logoColor=8FA9D0)](mailto:arthurafonsodev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthur%20Afonso-101827?style=for-the-badge&logo=linkedin&logoColor=8FA9D0)](https://www.linkedin.com/in/arthur-flor%C3%AAncio-afonso/)
