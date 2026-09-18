@@ -1,33 +1,40 @@
-# 💻 Arthur Afonso
+<p align="center">
+  <img src="assets/scarface.gif" alt="The World" width="100%" />
+</p>
 
-`Information Systems Student | Software Developer | Data & LLMs Enthusiast`
+<h1 align="center">Arthur Afonso</h1>
+
+<p align="center">
+  <code>Information Systems Student | Software Developer | Data & LLMs Enthusiast</code>
+</p>
+
 
 My name is **Arthur Afonso** and I am from Recife, Pernambuco (Brazil). Currently, I am pursuing a Bachelor's degree in **Information Systems at CESAR School**. I am passionate about technology and software development, focusing on building practical Python solutions that range from **desktop management systems and financial intelligence tools to computer vision and drone automation**. You can reach out to me via email at [arthurafonsodev@gmail.com](mailto:arthurafonsodev@gmail.com) or connect with me through my profiles below.
 
-[![E-mail](https://img.shields.io/badge/E--mail-arthurafonsodev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurafonsodev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthur%20Afonso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-flor%C3%AAncio-afonso/)
-[![Instagram](https://img.shields.io/badge/Instagram-%40afonsoarthur__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/afonsoarthur_/)
+[![E-mail](https://img.shields.io/badge/E--mail-arthurafonsodev%40gmail.com-101827?style=for-the-badge&logo=gmail&logoColor=8FA9D0)](mailto:arthurafonsodev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthur%20Afonso-101827?style=for-the-badge&logo=linkedin&logoColor=8FA9D0)](https://www.linkedin.com/in/arthur-flor%C3%AAncio-afonso/)
+[![Instagram](https://img.shields.io/badge/Instagram-%40afonsoarthur__-101827?style=for-the-badge&logo=instagram&logoColor=8FA9D0)](https://www.instagram.com/afonsoarthur_/)
 
 
 ---
 ### 🛠️ Tech Stack & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![PySide6](https://img.shields.io/badge/PySide6%20%2F%20Qt-41CD52?style=flat&logo=qt&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logo=google&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-172A46?style=flat&logo=python&logoColor=9DB7DE)
+![C](https://img.shields.io/badge/C-172A46?style=flat&logo=c&logoColor=9DB7DE)
+![TypeScript](https://img.shields.io/badge/TypeScript-172A46?style=flat&logo=typescript&logoColor=9DB7DE)
+![Next.js](https://img.shields.io/badge/Next.js-172A46?style=flat&logo=nextdotjs&logoColor=9DB7DE)
+![JavaScript](https://img.shields.io/badge/JavaScript-172A46?style=flat&logo=javascript&logoColor=9DB7DE)
+![HTML](https://img.shields.io/badge/HTML-172A46?style=flat&logo=html5&logoColor=9DB7DE)
+![CSS](https://img.shields.io/badge/CSS-172A46?style=flat&logo=css&logoColor=9DB7DE)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-172A46?style=flat&logo=postgresql&logoColor=9DB7DE)
+![PySide6](https://img.shields.io/badge/PySide6%20%2F%20Qt-172A46?style=flat&logo=qt&logoColor=9DB7DE)
+![OpenCV](https://img.shields.io/badge/OpenCV-172A46?style=flat&logo=opencv&logoColor=9DB7DE)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-172A46?style=flat&logo=google&logoColor=9DB7DE)
+![SQLite](https://img.shields.io/badge/SQLite-172A46?style=flat&logo=sqlite&logoColor=9DB7DE)
+![Pandas](https://img.shields.io/badge/Pandas-172A46?style=flat&logo=pandas&logoColor=9DB7DE)
+![Streamlit](https://img.shields.io/badge/Streamlit-172A46?style=flat&logo=streamlit&logoColor=9DB7DE)
+![Git](https://img.shields.io/badge/Git-172A46?style=flat&logo=git&logoColor=9DB7DE)
+![GitHub](https://img.shields.io/badge/GitHub-172A46?style=flat&logo=github&logoColor=9DB7DE)
 
 <br/>
 <br/>
