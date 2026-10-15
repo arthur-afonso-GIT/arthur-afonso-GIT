@@ -27,7 +27,7 @@
 
 [![E-mail](https://img.shields.io/badge/E--mail-arthurafonsodev%40gmail.com-101827?style=for-the-badge&logo=gmail&logoColor=8FA9D0)](mailto:arthurafonsodev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthur%20Afonso-101827?style=for-the-badge&logo=linkedin&logoColor=8FA9D0)](https://www.linkedin.com/in/arthur-flor%C3%AAncio-afonso/)
-[![Instagram](https://img.shields.io/badge/Instagram-%40afonsoarthur__-101827?style=for-the-badge&logo=instagram&logoColor=8FA9D0)](https://www.instagram.com/afonsoarthur_/)
+[![Instagram](https://img.shields.io/badge/Instagram-%40arthurafonsodev-101827?style=for-the-badge&logo=instagram&logoColor=8FA9D0)](https://www.instagram.com/arthurafonsodev/)
 
 
 ---
@@ -69,24 +69,9 @@
 <br/>
 
 ---
-### Statistics
+### GitHub Statistics
 
 <p align="center">
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-two-nu.vercel.app/api?username=arthur-afonso-git&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-    align="left" 
-    alt="Top Languages" 
-    height="200" 
-    src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=arthur-afonso-git&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  <img src="profile/stats.svg" alt="Arthur's GitHub statistics" height="200" />
+  <img src="profile/top-langs.svg" alt="Arthur's most used languages" height="200" />
 </p>
-
-<br clear="left"/>
-<br/>
