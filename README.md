@@ -72,6 +72,6 @@
 ### GitHub Statistics
 
 <p align="center">
-  <img src="profile/stats.svg" alt="Arthur's GitHub statistics" height="200" />
-  <img src="profile/top-langs.svg" alt="Arthur's most used languages" height="200" />
+  <img src="https://github-stats-extended.vercel.app/api?username=arthur-afonso-GIT&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=101827&amp;title_color=9DB7DE&amp;text_color=D6E2F2&amp;icon_color=8FA9D0" alt="Arthur's GitHub statistics" height="200" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=arthur-afonso-GIT&amp;layout=compact&amp;langs_count=9&amp;hide_border=true&amp;bg_color=101827&amp;title_color=9DB7DE&amp;text_color=D6E2F2" alt="Arthur's most used languages" height="200" />
 </p>
